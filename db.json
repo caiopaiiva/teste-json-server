@@ -3,211 +3,211 @@
     {
       "id": 1,
       "nome": "Ana",
-      "idade": 23,
+      "idade": 18,
       "nota": [10, 10, 10],
       "frequencia": [1, 1, 1, 1, 1, 1, 1, 1, 1, 0]
     },
     {
       "id": 2,
       "nome": "Helder",
-      "idade": 24,
+      "idade": 19,
       "nota": [8.5, 8.5, 8.5],
       "frequencia": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
     },
     {
       "id": 3,
       "nome": "Fagno",
-      "idade": 25,
+      "idade": 18,
       "nota": [9, 8.5, 10],
-      "frequencia": [1, 1, 1, 1, 1, 0, 0, 0, 0, 0]
+      "frequencia": [1, 1, 1, 1, 1, 1, 0, 0, 0, 0]
     },
     {
       "id": 4,
       "nome": "Bianca",
-      "idade": 22,
+      "idade": 23,
       "nota": [7.5, 8, 8.5],
-      "frequencia": [1, 1, 0, 0, 0, 1, 0, 1, 0, 0]  
+      "frequencia": [1, 1, 1, 0, 0, 0, 0, 1, 1, 0]
     },
     {
       "id": 5,
       "nome": "Carlos",
-      "idade": 26,
+      "idade": 25,
       "nota": [9, 9.5, 10],
-      "frequencia": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+      "frequencia": [1, 1, 1, 1, 1, 1, 1, 0, 1, 1]
     },
     {
       "id": 6,
       "nome": "Daniela",
-      "idade": 24,
-      "nota": [3, 5, 4], 
-      "frequencia": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+      "idade": 28,
+      "nota": [5, 6, 5.5],
+      "frequencia": [1, 1, 1, 1, 1, 1, 0, 1, 0, 1]
     },
     {
       "id": 7,
       "nome": "Eduardo",
-      "idade": 23,
+      "idade": 30,
       "nota": [8, 8.5, 9],
-      "frequencia": [1, 1, 1, 0, 1, 1, 1, 1, 0, 0] 
+      "frequencia": [1, 1, 0, 0, 1, 1, 1, 1, 0, 0]
     },
     {
       "id": 8,
       "nome": "Fernanda",
-      "idade": 25,
+      "idade": 32,
       "nota": [10, 9.5, 10],
       "frequencia": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
     },
     {
       "id": 9,
       "nome": "Gabriel",
-      "idade": 27,
-      "nota": [6, 5.5, 4.5],  
-      "frequencia": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+      "idade": 35,
+      "nota": [4.5, 5, 5.5],
+      "frequencia": [1, 1, 1, 1, 0, 1, 1, 0, 1, 1]
     },
     {
       "id": 10,
       "nome": "Helena",
-      "idade": 22,
+      "idade": 37,
       "nota": [9, 8.5, 9.5],
-      "frequencia": [1, 1, 1, 0, 0, 0, 1, 0, 1, 0]  
+      "frequencia": [1, 1, 0, 0, 1, 0, 1, 1, 0, 1]
     },
     {
       "id": 11,
       "nome": "Igor",
-      "idade": 24,
+      "idade": 40,
       "nota": [8, 8, 7.5],
-      "frequencia": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+      "frequencia": [1, 1, 1, 1, 1, 1, 1, 1, 0, 1]
     },
     {
       "id": 12,
       "nome": "Juliana",
-      "idade": 23,
+      "idade": 42,
       "nota": [10, 9.5, 10],
       "frequencia": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
     },
     {
       "id": 13,
       "nome": "Kevin",
-      "idade": 26,
-      "nota": [5, 6, 5.5],  
-      "frequencia": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+      "idade": 45,
+      "nota": [5, 6, 5.5],
+      "frequencia": [1, 1, 1, 1, 1, 1, 0, 1, 1, 1]
     },
     {
       "id": 14,
       "nome": "Larissa",
-      "idade": 24,
+      "idade": 47,
       "nota": [9, 9.5, 8.5],
-      "frequencia": [1, 0, 0, 1, 1, 0, 1, 1, 0, 1]  
+      "frequencia": [1, 0, 1, 0, 1, 1, 1, 0, 1, 1]
     },
     {
       "id": 15,
       "nome": "Marcelo",
-      "idade": 25,
+      "idade": 50,
       "nota": [8, 8.5, 9],
       "frequencia": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
     },
     {
       "id": 16,
-      "nome": "Ana B",
-      "idade": 23,
-      "nota": [4, 5, 5],  
-      "frequencia": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+      "nome": "Nina",
+      "idade": 52,
+      "nota": [4, 4.5, 5],
+      "frequencia": [1, 1, 1, 1, 1, 1, 1, 0, 0, 0]
     },
     {
       "id": 17,
-      "nome": "Helder B",
-      "idade": 24,
-      "nota": [8, 8.5, 9],
-      "frequencia": [1, 1, 1, 0, 1, 1, 1, 0, 0, 1]  
+      "nome": "Otávio",
+      "idade": 55,
+      "nota": [7.5, 8, 8],
+      "frequencia": [0, 1, 0, 1, 1, 0, 1, 0, 1, 0]
     },
     {
       "id": 18,
-      "nome": "Fagno B",
-      "idade": 25,
-      "nota": [6, 5, 5.5], 
-      "frequencia": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+      "nome": "Patrícia",
+      "idade": 58,
+      "nota": [5, 5, 5.5],
+      "frequencia": [1, 1, 1, 1, 0, 1, 0, 0, 0, 1]
     },
     {
       "id": 19,
-      "nome": "Bianca B",
-      "idade": 22,
-      "nota": [7, 7.5, 8],
-      "frequencia": [1, 1, 0, 0, 1, 0, 0, 1, 0, 1]  
+      "nome": "Rafael",
+      "idade": 60,
+      "nota": [8, 8.5, 9],
+      "frequencia": [0, 1, 0, 0, 1, 0, 1, 1, 0, 0]
     },
     {
       "id": 20,
-      "nome": "Carlos B",
-      "idade": 26,
-      "nota": [9, 8.5, 9.5],
+      "nome": "Sofia",
+      "idade": 18,
+      "nota": [9.5, 9, 10],
       "frequencia": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
     },
     {
       "id": 21,
-      "nome": "Daniela B",
-      "idade": 24,
-      "nota": [3.5, 4, 5], 
-      "frequencia": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+      "nome": "Thiago",
+      "idade": 21,
+      "nota": [4.5, 5, 5],
+      "frequencia": [1, 1, 1, 1, 1, 1, 0, 0, 0, 0]
     },
     {
       "id": 22,
-      "nome": "Eduardo B",
-      "idade": 23,
-      "nota": [8.5, 9, 9.5],
-      "frequencia": [1, 0, 0, 1, 1, 1, 0, 1, 1, 1]  
+      "nome": "Ursula",
+      "idade": 24,
+      "nota": [8.5, 8.5, 9],
+      "frequencia": [1, 0, 1, 1, 0, 0, 1, 1, 1, 0]
     },
     {
       "id": 23,
-      "nome": "Fernanda B",
-      "idade": 25,
-      "nota": [10, 10, 9.5],
+      "nome": "Vinícius",
+      "idade": 28,
+      "nota": [9, 9.5, 10],
       "frequencia": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
     },
     {
       "id": 24,
-      "nome": "Gabriel B",
-      "idade": 27,
-      "nota": [5, 5.5, 4], 
-      "frequencia": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+      "nome": "Wesley",
+      "idade": 31,
+      "nota": [5, 5, 5.5],
+      "frequencia": [1, 1, 1, 1, 1, 1, 1, 1, 0, 0]
     },
     {
       "id": 25,
-      "nome": "Helena B",
-      "idade": 22,
-      "nota": [9, 9, 9],
-      "frequencia": [1, 0, 0, 1, 0, 1, 1, 1, 0, 1] 
+      "nome": "Ximena",
+      "idade": 35,
+      "nota": [7.5, 8, 7.5],
+      "frequencia": [1, 0, 1, 0, 1, 0, 0, 1, 1, 0]
     },
     {
       "id": 26,
-      "nome": "Igor B",
-      "idade": 24,
-      "nota": [8, 8.5, 8],
-      "frequencia": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+      "nome": "Yuri",
+      "idade": 40,
+      "nota": [9, 9, 9.5],
+      "frequencia": [1, 1, 1, 1, 1, 1, 1, 1, 1, 0]
     },
     {
       "id": 27,
-      "nome": "Juliana B",
-      "idade": 23,
-      "nota": [10, 10, 9.5],
+      "nome": "Zélia",
+      "idade": 44,
+      "nota": [8, 8.5, 9],
       "frequencia": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
     },
     {
       "id": 28,
-      "nome": "Kevin B",
-      "idade": 26,
-      "nota": [5, 4.5, 5], 
-      "frequencia": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+      "nome": "Arthur",
+      "idade": 48,
+      "nota": [5, 5.5, 5],
+      "frequencia": [1, 1, 1, 0, 0, 1, 0, 0, 1, 0]
     },
     {
       "id": 29,
-      "nome": "Larissa B",
-      "idade": 24,
-      "nota": [9, 9, 8.5],
-      "frequencia": [1, 1, 0, 0, 1, 0, 1, 0, 1, 0] 
+      "nome": "Beatriz",
+      "idade": 53,
+      "nota": [8.5, 9, 9.5],
+      "frequencia": [1, 0, 1, 0, 0, 1, 0, 1, 0, 1]
     },
     {
       "id": 30,
-      "nome": "Marcelo B",
-      "idade": 25,
-      "nota": [8, 8.5, 9],
+      "nome": "Caio",
+      "idade": 59,
+      "nota": [9, 9.5, 9],
       "frequencia": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
     }
   ]
